@@ -17,7 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.pawbyte.com
   # baseUrl: /your-repo-name
-  logoUrl: https://pawbyte.com/wp-content/uploads/2018/02/cropped-pblogo1-e1645284196582.png
+  logoUrl: https://raw.githubusercontent.com/pawbyte/uptime/master/assets/cropped-pblogo1-e1645284196582.png
   name: PawByte Sites
   introTitle: "Monitoring the uptime of our Pawbyte Services, powered entirely by GitHub."
   introMessage: This is a the status page which uses **real-time** data from our [GitHub repository](https://github.com/pawbyte/uptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
