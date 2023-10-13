@@ -20,7 +20,11 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/pawbyte/uptime/master/assets/cropped-pblogo1-e1645284196582.png
   name: PawByte Sites
   introTitle: "Monitoring the uptime of our Pawbyte Services, powered entirely by GitHub."
-  introMessage: This is a the status page which uses **real-time** data from our [GitHub repository](https://github.com/pawbyte/uptime). Note that data on this site may be delayed up to 5 minutes.
+  introMessage: |
+    This is a the status page which uses **real-time** data from our [GitHub repository](https://github.com/pawbyte/uptime). 
+    Note that data on this page is updated at different rates.
+    - Update status is updated every 5 minutes.
+    - Graphs & Average response times are updated once a day.
   navbar:
     - title: Status
       href: /
