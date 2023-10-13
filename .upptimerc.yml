@@ -23,8 +23,8 @@ status-website:
   introMessage: |
     This is a the status page which uses **real-time** data from our [GitHub repository](https://github.com/pawbyte/uptime). 
     Note that data on this page is updated at different rates.
-    - Update status is updated every 5 minutes.
-    - Graphs & Average response times are updated once a day.
+    - Uptime status is updated every 5 minutes.
+    - Graphs & average response times are updated once a day.
   navbar:
     - title: Status
       href: /
