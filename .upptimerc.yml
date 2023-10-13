@@ -5,6 +5,8 @@ repo: uptime # The name of this repository
 sites:
   - name: PawByte
     url: https://pawbyte.com
+  - name: Email
+    url: https://email.pawbyte.com
   - name: Game Pencil
     url: https://gamepencil.net
   - name: Visit Gary
