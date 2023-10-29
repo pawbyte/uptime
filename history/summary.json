@@ -4,9 +4,9 @@
     "url": "https://pawbyte.com",
     "icon": "https://icons.duckduckgo.com/ip3/pawbyte.com.ico",
     "slug": "paw-byte",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "98.89%",
+    "uptimeDay": "98.87%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
@@ -16,6 +16,7 @@
     "timeMonth": 640,
     "timeYear": 640,
     "dailyMinutesDown": {
+      "2023-10-29": 0,
       "2023-10-28": 16
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://email.pawbyte.com",
     "icon": "https://icons.duckduckgo.com/ip3/email.pawbyte.com.ico",
     "slug": "email",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "98.89%",
+    "uptimeDay": "98.88%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
@@ -36,6 +37,7 @@
     "timeMonth": 333,
     "timeYear": 333,
     "dailyMinutesDown": {
+      "2023-10-29": 0,
       "2023-10-28": 16
     }
   },
@@ -44,9 +46,9 @@
     "url": "https://gamepencil.net",
     "icon": "https://icons.duckduckgo.com/ip3/gamepencil.net.ico",
     "slug": "game-pencil",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "98.90%",
+    "uptimeDay": "98.89%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
@@ -56,6 +58,7 @@
     "timeMonth": 384,
     "timeYear": 384,
     "dailyMinutesDown": {
+      "2023-10-29": 0,
       "2023-10-28": 16
     }
   },
@@ -84,18 +87,19 @@
     "url": "https://nathanhurde.com",
     "icon": "https://icons.duckduckgo.com/ip3/nathanhurde.com.ico",
     "slug": "nathan-hurde",
-    "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.41%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.40%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.41%",
     "time": 581,
     "timeDay": 1607,
     "timeWeek": 727,
     "timeMonth": 581,
     "timeYear": 581,
     "dailyMinutesDown": {
+      "2023-10-29": 0,
       "2023-10-14": 34,
       "2023-10-13": 104
     }
