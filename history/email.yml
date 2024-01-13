@@ -1,7 +1,7 @@
 url: https://email.pawbyte.com
-status: up
-code: 200
-responseTime: 306
-lastUpdated: 2024-01-12T23:07:36.531Z
+status: down
+code: 502
+responseTime: 404
+lastUpdated: 2024-01-13T04:39:31.125Z
 startTime: 2023-10-13T02:07:52.609Z
 generator: Upptime <https://github.com/upptime/upptime>
