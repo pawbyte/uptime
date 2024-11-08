@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pawbyte.com.ico",
     "slug": "paw-byte",
     "status": "up",
-    "uptime": "96.86%",
-    "uptimeDay": "97.74%",
-    "uptimeWeek": "97.67%",
+    "uptime": "96.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.98%",
     "uptimeMonth": "99.04%",
-    "uptimeYear": "96.64%",
-    "time": 1680,
-    "timeDay": 2659,
-    "timeWeek": 2256,
-    "timeMonth": 2585,
-    "timeYear": 1702,
+    "uptimeYear": "96.67%",
+    "time": 1682,
+    "timeDay": 2858,
+    "timeWeek": 2541,
+    "timeMonth": 2591,
+    "timeYear": 1711,
     "dailyMinutesDown": {
       "2024-11-06": 33,
       "2024-11-04": 70,
@@ -59,8 +59,7 @@
       "2023-11-26": 23,
       "2023-11-12": 1270,
       "2023-11-11": 1440,
-      "2023-11-10": 1440,
-      "2023-11-09": 1440
+      "2023-11-10": 1440
     }
   },
   {
@@ -70,14 +69,14 @@
     "slug": "email",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "97.74%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.85%",
     "time": 353,
-    "timeDay": 321,
-    "timeWeek": 303,
-    "timeMonth": 332,
+    "timeDay": 374,
+    "timeWeek": 305,
+    "timeMonth": 333,
     "timeYear": 347,
     "dailyMinutesDown": {
       "2024-11-06": 33,
@@ -113,8 +112,7 @@
       "2023-12-06": 12,
       "2023-11-26": 23,
       "2023-11-18": 11,
-      "2023-11-16": 12,
-      "2023-11-09": 34
+      "2023-11-16": 12
     }
   },
   {
@@ -123,16 +121,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gamepencil.net.ico",
     "slug": "game-pencil",
     "status": "up",
-    "uptime": "96.63%",
-    "uptimeDay": "97.74%",
-    "uptimeWeek": "97.68%",
+    "uptime": "96.64%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.99%",
     "uptimeMonth": "99.21%",
-    "uptimeYear": "96.40%",
-    "time": 1144,
-    "timeDay": 1652,
-    "timeWeek": 1439,
-    "timeMonth": 1584,
-    "timeYear": 1213,
+    "uptimeYear": "96.43%",
+    "time": 1145,
+    "timeDay": 1814,
+    "timeWeek": 1543,
+    "timeMonth": 1599,
+    "timeYear": 1219,
     "dailyMinutesDown": {
       "2024-11-06": 33,
       "2024-11-04": 70,
@@ -186,8 +184,7 @@
       "2023-11-26": 23,
       "2023-11-12": 1270,
       "2023-11-11": 1440,
-      "2023-11-10": 1440,
-      "2023-11-09": 1440
+      "2023-11-10": 1440
     }
   },
   {
@@ -197,15 +194,15 @@
     "slug": "visit-gary",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "84.60%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.80%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.87%",
-    "time": 866,
-    "timeDay": 216,
-    "timeWeek": 427,
-    "timeMonth": 797,
-    "timeYear": 896,
+    "time": 876,
+    "timeDay": 5097,
+    "timeWeek": 1013,
+    "timeMonth": 935,
+    "timeYear": 907,
     "dailyMinutesDown": {
       "2024-11-06": 222,
       "2024-10-19": 23,
@@ -229,8 +226,7 @@
       "2024-01-14": 10,
       "2023-11-16": 11,
       "2023-11-13": 35,
-      "2023-11-12": 34,
-      "2023-11-09": 22
+      "2023-11-12": 34
     }
   },
   {
@@ -240,15 +236,15 @@
     "slug": "nathan-hurde",
     "status": "up",
     "uptime": "97.17%",
-    "uptimeDay": "97.74%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "96.99%",
+    "uptimeYear": "97.00%",
     "time": 638,
-    "timeDay": 513,
-    "timeWeek": 752,
-    "timeMonth": 707,
-    "timeYear": 643,
+    "timeDay": 723,
+    "timeWeek": 757,
+    "timeMonth": 706,
+    "timeYear": 637,
     "dailyMinutesDown": {
       "2024-11-06": 33,
       "2024-11-02": 24,
@@ -289,8 +285,7 @@
       "2023-11-26": 23,
       "2023-11-12": 1259,
       "2023-11-11": 1440,
-      "2023-11-10": 1440,
-      "2023-11-09": 1440
+      "2023-11-10": 1440
     }
   }
 ]
