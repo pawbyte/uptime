@@ -1,7 +1,7 @@
 url: https://pawbyte.com
-status: up
-code: 200
-responseTime: 3021
-lastUpdated: 2024-11-15T23:10:29.119Z
+status: down
+code: 503
+responseTime: 120
+lastUpdated: 2024-11-16T16:42:04.415Z
 startTime: 2023-10-12T23:27:38.409Z
 generator: Upptime <https://github.com/upptime/upptime>
